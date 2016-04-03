@@ -1,0 +1,48 @@
+ body {
+        margin: auto;
+        padding-top: 80px;
+        
+        font-family: sans-serif;
+        font-size: 1.3em;
+        background-color: #F5F5F5;
+      }
+
+#jeu  button{
+	 width : 25%;
+	 height:60px;
+	 margin: 5px;
+	 float :left;
+	 color: #fff;
+	 border: 2px solid black;
+	 font-weight : bold;
+ } 
+#jeu{
+	width : 900px;
+	height : 700px;
+	background-color : #2a2a2a;
+	border : 1px solid #555;
+	margin : 50px auto;
+	box-shadow : 3px 8px 3px #bbb;
+	padding : 10px;
+	overflow: auto;
+} 
+#jeu div{
+	width : 400px;
+	margin: auto;
+	clear: both;
+}
+#gameStatuts {
+	font-size: 2em;
+	padding : 15px 50px 0px 25px;
+	color:#fff;
+	
+	
+}
+#gameStatuts a{
+	font-size: 4em;
+	color: #fff;
+	text-decoration:none;
+}
+#gameStatuts a:hover{
+	color: #B1C6C3;
+}
